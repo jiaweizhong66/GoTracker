@@ -2,7 +2,7 @@
 
 ## Breif overview:
 
-GoTracker is a useful app that records your things you plan to do
+GoTracker is a useful web app that records your things you plan to do
 
 ## Technologies:
 Frontend: React.js
